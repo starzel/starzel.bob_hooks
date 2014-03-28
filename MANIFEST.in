@@ -1,0 +1,2 @@
+graft starzel.bob_hooks
+include *.cfg *.rst *.in LICENSE
